@@ -1,5 +1,5 @@
 a {
-	font:40px Tahoma, "Times New Roman", Times, serif;
+	font: 40px Tahoma, "Times New Roman", Times, serif;
 	color: black;
   font-style: bold;
 	text-decoration
@@ -23,7 +23,7 @@ b {text-decoration: bold; color; 006660;}
 	font-weight: bold;
 }
 h1 {
- 	font-size: 60px; 
+ 	font-size: 70px; 
   color:rgb (0,0,5); 
   font-style:; 
   text-align:center;
